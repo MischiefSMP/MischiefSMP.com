@@ -1,0 +1,20 @@
+[
+    {
+        "name": "MischiefCore",
+        "version": "0.0.3",
+        "github": "https://github.com/MischiefSMP/MischiefCore",
+        "download": "https://github.com/MischiefSMP/MischiefCore/releases/latest/download/MischiefCore.jar"
+    },
+    {
+        "name": "MischiefMOTD",
+        "version": "0.0.1",
+        "github": "https://github.com/MischiefSMP/MischiefMOTD",
+        "download": "https://github.com/MischiefSMP/MischiefMOTD/releases/latest/download/MischiefMOTD.jar"
+    },
+    {
+        "name": "MischiefAutoBroadcast",
+        "version": "0.0.7",
+        "github": "https://github.com/MischiefSMP/MischiefAutoBroadcast",
+        "download": "https://github.com/MischiefSMP/MischiefAutoBroadcast/releases/latest/download/MischiefAutoBroadcast.jar"
+    }
+]
